@@ -107,7 +107,7 @@ Se estableció la estructura inicial del repositorio, organizando las carpetas y
 Se trabajó en la representación y documentación de la infraestructura de red, identificando los dispositivos y sus características principales para utilizarlos como referencia en las siguientes prácticas.
 
 ### Práctica 03: Representación de dispositivos con Python
-**Estado:** Programa completado; documentación y evidencias en proceso.
+**Estado:** Completada.
 
 Se desarrolló un programa en Python que permite representar routers y switches mediante diccionarios y listas, consultar su información, verificar sus estados, modificar datos y guardar los resultados en un archivo JSON.
 
