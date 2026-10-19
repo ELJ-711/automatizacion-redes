@@ -78,3 +78,46 @@ Durante su elaboración se aplicaron conceptos de programación como variables, 
 También se aprendió a guardar y recuperar información mediante archivos JSON, lo que facilita conservar los datos para utilizarlos posteriormente.
 
 Finalmente, esta práctica permitió comprender cómo la programación puede ayudar a organizar y gestionar información de una red, estableciendo las bases para desarrollar herramientas de automatización más avanzadas en futuras actividades.
+
+
+## 7. Preguntas de análisis
+
+### 1. ¿Por qué es útil representar la información de los dispositivos mediante un programa?
+
+Es útil porque permite organizar y consultar la información de los dispositivos de red de manera más rápida y sencilla. Con Python podemos visualizar sus nombres, tipos, direcciones IP y estados, además de realizar modificaciones sin tener que revisar manualmente cada dispositivo. Esto facilita la administración de una red.
+
+### 2. ¿Qué ventaja ofrece utilizar un diccionario para representar un dispositivo?
+
+Un diccionario permite almacenar diferentes características de un dispositivo utilizando claves y valores. Por ejemplo, podemos guardar su nombre, tipo, dirección IP y estado en una misma estructura. Esto ayuda a mantener la información organizada y facilita su consulta o modificación dentro del programa.
+
+### 3. ¿Qué ventaja ofrece utilizar una lista para representar varios dispositivos?
+
+Una lista permite agrupar varios dispositivos dentro de una sola estructura. En nuestra práctica utilizamos una lista que contiene los routers R1 y R2 y el switch SW1. Esto facilita recorrerlos, mostrar su información y realizar operaciones sin tener que escribir instrucciones individuales para cada uno.
+
+### 4. ¿Qué tarea permite realizar el ciclo for?
+
+El ciclo `for` permite recorrer los elementos de una lista y ejecutar instrucciones para cada uno. En nuestro programa lo utilizamos para mostrar la información de los dispositivos, verificar sus estados y contar cuántos se encuentran activos o inactivos.
+
+### 5. ¿Para qué se utilizó la estructura if?
+
+La estructura `if` se utilizó para evaluar condiciones dentro del programa. Por ejemplo, permitió identificar si un dispositivo estaba activo o inactivo y comparar nombres durante las búsquedas. De esta manera, el programa puede realizar diferentes acciones dependiendo de la información de cada dispositivo.
+
+### 6. ¿Qué ventaja tiene utilizar una función?
+
+Una función permite organizar el programa en bloques de código que realizan tareas específicas y pueden reutilizarse. En nuestra práctica creamos funciones para mostrar, buscar y modificar información de los dispositivos. Esto evita repetir instrucciones y facilita la comprensión y el mantenimiento del código.
+
+### 7. ¿Qué información de los dispositivos podría obtener automáticamente un programa en una etapa posterior?
+
+En una etapa posterior, el programa podría obtener automáticamente las direcciones IP, nombres de los dispositivos, estados de las interfaces, versiones del sistema operativo y configuraciones de red. También podría consultar información sobre conectividad y funcionamiento de los equipos mediante herramientas y protocolos de administración de redes.
+
+### 8. ¿Qué diferencia existe entre representar información de un dispositivo y obtener esa información directamente desde el dispositivo?
+
+Representar información consiste en almacenar manualmente los datos de un dispositivo dentro del programa, como hicimos utilizando diccionarios en Python. En cambio, obtener información directamente del dispositivo implica establecer comunicación con el equipo para consultar sus datos reales. La segunda opción permite trabajar con información actualizada de la red.
+
+### 9. ¿Cómo podría evolucionar este programa para convertirse en una herramienta de automatización de redes?
+
+El programa podría evolucionar incorporando funciones para conectarse automáticamente a routers y switches, consultar sus configuraciones, verificar su estado y detectar problemas de conectividad. También podría generar reportes, realizar respaldos de configuraciones y ejecutar tareas administrativas en varios dispositivos, reduciendo el trabajo manual.
+
+### 10. ¿Qué relación existe entre esta práctica, la Práctica 2 y las siguientes prácticas del proyecto integrador?
+
+La Práctica 2 permitió construir y configurar una infraestructura de red en GNS3, utilizando dispositivos como routers y switches. En la Práctica 3 utilizamos Python para representar y administrar información de esos dispositivos mediante estructuras de datos y funciones. Ambas prácticas establecen las bases para que, en las siguientes actividades, podamos desarrollar programas capaces de interactuar con la infraestructura de red y automatizar tareas de administración.
