@@ -36,7 +36,23 @@ Durante el desarrollo de la Práctica 03 se realizaron capturas de pantalla para
 
 Las evidencias muestran la estructura del repositorio, la representación de dispositivos de red, el uso de diccionarios y listas, los ciclos y condicionales, la implementación de funciones y las pruebas realizadas.
 
-Las capturas se encuentran organizadas en la carpeta `docs/practica-03/evidencias/`.
+Las capturas se encuentran organizadas en la carpeta `docs/practica-03/Evidencias/`.
+
+### Evidencias del reto final
+
+Se realizaron pruebas de búsqueda interactiva utilizando la función `input()` de Python.
+
+El programa permitió ingresar el nombre de un dispositivo y consultar su nombre, tipo, dirección IP y estado.
+
+Las pruebas realizadas fueron:
+
+- Búsqueda de R1: dispositivo encontrado correctamente.
+- Búsqueda de R2: dispositivo encontrado correctamente.
+- Búsqueda de R5: dispositivo no encontrado.
+- Búsqueda de SW1: dispositivo encontrado correctamente.
+
+Los resultados demuestran que el programa permite consultar distintos dispositivos y detectar cuando un nombre no está registrado.
+
 
 
 ## 5. Problemas y soluciones

@@ -79,6 +79,7 @@ def buscar_dispositivo(lista, nombre):
             print("-------------------------")
             print("Dispositivo encontrado")
             print("Nombre:", dispositivo["nombre"])
+            print("Tipo:", dispositivo["tipo"])
             print("Dirección IP:", dispositivo["ip"])
             print("Estado:", dispositivo["estado"])
             return
@@ -86,7 +87,9 @@ def buscar_dispositivo(lista, nombre):
     print("Dispositivo no encontrado")
 
 
-buscar_dispositivo(dispositivos, "R1")
+nombre_buscar = input("Escribe el nombre del dispositivo que deseas buscar: ")
+buscar_dispositivo(dispositivos, nombre_buscar)
+
 
 
 
