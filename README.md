@@ -89,3 +89,28 @@ Infraestructura construida:
 
 Próximo paso:
 Desarrollo de scripts y herramientas para automatizar tareas sobre la infraestructura de red.
+
+
+
+## Avance del proyecto integrador
+
+El proyecto integrador tiene como objetivo aplicar conocimientos de redes y programación para desarrollar herramientas que faciliten la organización y administración de dispositivos de red.
+
+### Práctica 01: Organización del proyecto
+**Estado:** Completada.
+
+Se estableció la estructura inicial del repositorio, organizando las carpetas y archivos necesarios para documentar las actividades y almacenar los programas del proyecto.
+
+### Práctica 02: Infraestructura de red
+**Estado:** Completada.
+
+Se trabajó en la representación y documentación de la infraestructura de red, identificando los dispositivos y sus características principales para utilizarlos como referencia en las siguientes prácticas.
+
+### Práctica 03: Representación de dispositivos con Python
+**Estado:** Programa completado; documentación y evidencias en proceso.
+
+Se desarrolló un programa en Python que permite representar routers y switches mediante diccionarios y listas, consultar su información, verificar sus estados, modificar datos y guardar los resultados en un archivo JSON.
+
+### Siguiente paso
+
+Continuar con el desarrollo del proyecto integrador, incorporando nuevas funciones que permitan mejorar la consulta y administración de dispositivos de red mediante Python.

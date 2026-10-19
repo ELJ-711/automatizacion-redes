@@ -1,0 +1,29 @@
+[
+    {
+        "nombre": "R1",
+        "tipo": "Router Cisco IOSv",
+        "ip": "10.1.1.1",
+        "interfaz": "GigabitEthernet0/0",
+        "estado": "Activo",
+        "mascara": "255.255.255.0",
+        "loopback": "1.1.1.1"
+    },
+    {
+        "nombre": "R2",
+        "tipo": "Router Cisco IOSv",
+        "ip": "10.1.1.2",
+        "interfaz": "GigabitEthernet0/0",
+        "estado": "Inactivo",
+        "mascara": "255.255.255.0",
+        "loopback": "2.2.2.2"
+    },
+    {
+        "nombre": "SW1",
+        "tipo": "Switch Cisco IOSvL2",
+        "ip": "Sin asignar",
+        "interfaz": "GigabitEthernet0/0",
+        "estado": "Activo",
+        "mascara": "Sin asignar",
+        "loopback": "No aplica"
+    }
+]
