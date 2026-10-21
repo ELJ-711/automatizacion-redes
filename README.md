@@ -114,3 +114,19 @@ Se desarrolló un programa en Python que permite representar routers y switches 
 ### Siguiente paso
 
 Continuar con el desarrollo del proyecto integrador, incorporando nuevas funciones que permitan mejorar la consulta y administración de dispositivos de red mediante Python.
+
+
+
+### Práctica 4
+
+**Exploración de comunidades, documentación y recursos de colaboración.**
+
+**Estado:** Completada.
+
+Se identificaron y analizaron recursos de documentación y comunidades relacionados con Python, GNS3 y la automatización de redes.
+
+Se organizó una base de conocimiento técnica con recursos de Python, documentación de redes, comunidades de colaboración, evaluación de confiabilidad y una estrategia de investigación de problemas.
+
+**Próximo paso:**
+
+Continuar el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver problemas durante las siguientes etapas del proyecto integrador.
