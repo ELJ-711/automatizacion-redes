@@ -130,3 +130,18 @@ Se organizó una base de conocimiento técnica con recursos de Python, documenta
 **Próximo paso:**
 
 Continuar el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver problemas durante las siguientes etapas del proyecto integrador.
+
+
+## Práctica 5: Mi primer script en Python
+
+Se desarrolló una topología en GNS3 y se utilizó
+Python para automatizar la configuración de un
+router Cisco mediante Telnet.
+
+Se configuraron dos interfaces Loopback y el
+protocolo OSPF en el área 0.
+
+La práctica forma parte del proyecto integrador
+de automatización de infraestructura de redes.
+
+[Ver Práctica 5](docs/practica-05/README.md)
