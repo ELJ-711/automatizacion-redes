@@ -50,5 +50,14 @@ También se presentaron errores en el código Python, que se corrigieron revisan
 
 ## 8. Conclusiones individuales
 
-**Pendiente:** agregar la conclusión individual de cada integrante del equipo.
+### Elizabeth
+Esta práctica me permitió comprender mejor la relación que existe entre la programación y el funcionamiento de una red. Considero que una de las partes más importantes fue trabajar con GNS3, ya que pudimos observar cómo interactúan los diferentes dispositivos dentro de una topología. También aprendí que es necesario llevar un orden durante las configuraciones para evitar errores que afecten la comunicación. La creación de las interfaces Loopback y la configuración de OSPF me ayudaron a conocer otras funciones de los routers. Finalmente, esta actividad me permitió reconocer la importancia de documentar los procedimientos y conservar evidencias para comprobar los resultados obtenidos.
 
+### Edson 
+Durante esta práctica aprendí cómo utilizar Python para automatizar la configuración de dispositivos de red mediante Telnet. Al principio tuvimos algunos problemas con las direcciones IP y errores en el código, pero logramos solucionarlos mediante diferentes pruebas. Lo que más me llamó la atención fue comprobar que un script puede ejecutar varios comandos en un router sin necesidad de introducirlos manualmente. También comprendí la importancia de verificar la conectividad antes de realizar cualquier configuración. Esta actividad me permitió mejorar mis conocimientos de programación y administración de redes, además de entender cómo estas herramientas pueden facilitar el trabajo de un administrador de infraestructura.
+
+### Pedro
+Con esta actividad pude identificar la importancia de establecer correctamente los parámetros de comunicación entre los dispositivos de una red. La asignación de direcciones IP, la comprobación mediante ping y el acceso remoto fueron elementos fundamentales para conseguir que la automatización funcionara. Además, comprendí que los comandos enviados desde Python deben tener una estructura adecuada para que el router pueda interpretarlos correctamente. La práctica también permitió observar cómo se pueden realizar configuraciones de manera remota y verificar posteriormente sus resultados. Estos conocimientos son útiles para administrar infraestructuras de red de forma más organizada y eficiente.
+
+### Alejandro
+Al realizar esta práctica comprendí que la automatización puede ayudar a reducir el tiempo necesario para configurar equipos de red, especialmente cuando se deben aplicar varias instrucciones. Una parte interesante fue utilizar un programa de Python para establecer una sesión Telnet y modificar la configuración de un router Cisco. También observé que los errores pueden presentarse tanto en el código como en la comunicación entre los dispositivos, por lo que es importante revisar cada resultado antes de continuar. Considero que esta experiencia fue útil para conocer una aplicación práctica de la programación dentro del área de redes y entender por qué es importante desarrollar procedimientos que puedan repetirse de manera controlada.
